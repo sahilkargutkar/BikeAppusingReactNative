@@ -1,5 +1,5 @@
-#Bike APP
-Get Custom ordered Bikes or Buy a pre-made.
+# Bike APP
+    Get Custom ordered Bikes or Buy a pre-made.
 
 
 ## React Native App :movie_camera:
